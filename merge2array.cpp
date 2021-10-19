@@ -1,10 +1,3 @@
-/*
-	Name: merge2array 
-	Author: Aditya Raj
-	Date: 14-02-21 23:00
-	Description: 
-*/
-
 #include<iostream>
 using namespace std;
 int main(){
@@ -44,7 +37,7 @@ int main(){
     {
         for(int j=0; j<2; j++)
         {
-            cout<<arr3[i][j]<<" ";
+            cout<<arr3[i][j]<<"  ";
         }
         cout<<endl;
     }

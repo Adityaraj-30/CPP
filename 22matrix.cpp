@@ -1,11 +1,4 @@
-/*
-	Name: 22matrix 
-	Author: Aditya Raj
-	Date: 15-02-21 23:01
-	Description: 
-*/
-
-#include <iostream>
+# include <iostream>
 using namespace std;
 class matrix{
     private :int row;
